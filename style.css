@@ -1,0 +1,20 @@
+body{
+	text-align: center;
+	
+}
+#principal{
+	background-color: lightblue;
+	border-style: double;
+	margin: 50px 100px;
+}
+#resultado{
+	background-color: lightblue;
+	font-family: left;
+	 width: 300px;
+  margin: red;
+  border: 3px solid red;
+  border-style: dotted;
+  margin: center;
+  padding: 30px;
+}
+}
